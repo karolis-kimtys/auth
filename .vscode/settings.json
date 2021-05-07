@@ -1,0 +1,9 @@
+{
+    "git.ignoreLimitWarning": true,
+    "prettier.semi": false,
+    "css.completion.completePropertyWithSemicolon": false,
+    "less.completion.completePropertyWithSemicolon": false,
+    "typescript.format.insertSpaceAfterSemicolonInForStatements": false,
+    "scss.completion.completePropertyWithSemicolon": false,
+    "editor.acceptSuggestionOnCommitCharacter": false
+}
